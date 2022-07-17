@@ -1,2 +1,2 @@
-# proyecto_c73v2
-Proyecto de la clase 73 v2
+# PRO-C73-PROYECTO
+Código de solución del proyecto
